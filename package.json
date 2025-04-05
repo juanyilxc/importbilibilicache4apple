@@ -1,0 +1,15 @@
+{
+  "name": "importbilibilicache4apple",
+  "version": "0.0.1",
+  "description": "bilibili cache video import for iphone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "mp4box": "^0.5.4"
+  }
+}
